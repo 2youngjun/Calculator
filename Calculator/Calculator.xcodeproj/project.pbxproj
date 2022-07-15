@@ -16,6 +16,7 @@
 		8B39B0082880892C00030E8A /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B39B0072880892C00030E8A /* CalculatorTests.swift */; };
 		8B39B0122880892C00030E8A /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B39B0112880892C00030E8A /* CalculatorUITests.swift */; };
 		8B39B0142880892C00030E8A /* CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B39B0132880892C00030E8A /* CalculatorUITestsLaunchTests.swift */; };
+		8B39B0212881166900030E8A /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B39B0202881166900030E8A /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8B39B00D2880892C00030E8A /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B39B0112880892C00030E8A /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		8B39B0132880892C00030E8A /* CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8B39B0202881166900030E8A /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				8B39AFF02880892A00030E8A /* AppDelegate.swift */,
+				8B39B0202881166900030E8A /* RoundButton.swift */,
 				8B39AFF22880892A00030E8A /* SceneDelegate.swift */,
 				8B39AFF42880892A00030E8A /* ViewController.swift */,
 				8B39AFF62880892A00030E8A /* Main.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B39B0212881166900030E8A /* RoundButton.swift in Sources */,
 				8B39AFF52880892A00030E8A /* ViewController.swift in Sources */,
 				8B39AFF12880892A00030E8A /* AppDelegate.swift in Sources */,
 				8B39AFF32880892A00030E8A /* SceneDelegate.swift in Sources */,
